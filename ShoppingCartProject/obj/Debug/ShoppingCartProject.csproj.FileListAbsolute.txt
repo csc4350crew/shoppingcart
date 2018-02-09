@@ -1,0 +1,15 @@
+D:\ShoppingCartProject\EcommerceApplication\bin\EcommerceApplication.dll.config
+D:\ShoppingCartProject\EcommerceApplication\bin\EcommerceApplication.dll
+D:\ShoppingCartProject\EcommerceApplication\bin\EcommerceApplication.pdb
+D:\ShoppingCartProject\EcommerceApplication\bin\System.Web.Mvc.dll
+D:\ShoppingCartProject\EcommerceApplication\obj\Debug\ShoppingCartProject.csproj.CoreCompileInputs.cache
+D:\ShoppingCartProject\EcommerceApplication\obj\Debug\EcommerceApplication.dll
+D:\ShoppingCartProject\EcommerceApplication\obj\Debug\EcommerceApplication.pdb
+D:\ShoppingCartProject\EcommerceApplication\obj\Debug\ShoppingCartProject.csprojResolveAssemblyReference.cache
+D:\ShoppingCartProject\ShoppingCartProject\bin\EcommerceApplication.dll.config
+D:\ShoppingCartProject\ShoppingCartProject\bin\EcommerceApplication.dll
+D:\ShoppingCartProject\ShoppingCartProject\bin\EcommerceApplication.pdb
+D:\ShoppingCartProject\ShoppingCartProject\bin\System.Web.Mvc.dll
+D:\ShoppingCartProject\ShoppingCartProject\obj\Debug\ShoppingCartProject.csproj.CoreCompileInputs.cache
+D:\ShoppingCartProject\ShoppingCartProject\obj\Debug\EcommerceApplication.dll
+D:\ShoppingCartProject\ShoppingCartProject\obj\Debug\EcommerceApplication.pdb
